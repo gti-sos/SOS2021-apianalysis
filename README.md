@@ -2,6 +2,7 @@
 * [Mailgun](https://www.mailgun.com) analizado por Rafael Fresno Aranda
 * [Soundcloud](https://developers.soundcloud.com/) analizado por [José María Maya Cano](https://github.com/josemarimaya)
 * [MapQuest](https://developer.mapquest.com/) analizado por [José María Maya Cano](https://github.com/josemarimaya)
+* [Shopify](https://shopify.dev/concepts/shopify-introduction) analizado por [José María Maya Cano](https://github.com/josemarimaya)
 * [WineSearch](https://www.wine-searcher.com/) analizado por [Miguel Gómez Vázquez](https://github.com/migueclon98)
 * [Dropbox](https://www.dropbox.com/plans?tab=personal) analizado por [Miguel Gómez Vázquez](https://github.com/migueclon98)
 * [GetPocket](https://getpocket.com/premium) analizado por [Miguel Gómez Vázquez](https://github.com/migueclon98)
