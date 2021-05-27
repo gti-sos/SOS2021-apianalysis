@@ -27,3 +27,7 @@
 * [Htm2pdf](https://www.htm2pdf.co.uk/plans-and-pricing/) analizado por Francisco José Fernández Blanco
 * [Shutterstock](https://www.shutterstock.com/es/pricing) analizado por Francisco José Fernández Blanco
 * [Bluehost](https://www.bluehost.com/web-hosting/signup) analizado por Francisco José Fernández Blanco
+* [Meaningcloud](https://www.meaningcloud.com/) analizado por Paula Garrido Lerma
+* [Doubleclick](https://ads.google.com/home/pricing/) analizado por Paula Garrido Lerma
+* [OxfordDictionaries](https://developer.oxforddictionaries.com/) analizado por Paula Garrido Lerma
+
