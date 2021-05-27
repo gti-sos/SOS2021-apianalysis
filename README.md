@@ -8,3 +8,6 @@
 * [Email Labs](https://emaillabs.io/en/pricing/) analizado por [Alejandro Sánchez Márquez](https://github.com/Alesanmar)
 * [Zamzar](https://developers.zamzar.com/pricing) analizado por [Alejandro Sánchez Márquez](https://github.com/Alesanmar)
 * [Youtube](https://developers.google.com/youtube/v3/determine_quota_cost) analizado por [Alejandro Sánchez Márquez](https://github.com/Alesanmar)
+* [Box](https://www.box.com/es-419/pricing/business) analizado por Antonio José Marín Rodríguez
+* [Trustpilot](https://business.trustpilot.com/plans) analizado por Antonio José Marín Rodríguez
+* [Flickr](https://www.flickr.com/account/upgrade/pro) analizado por Antonio José Marín Rodríguez
