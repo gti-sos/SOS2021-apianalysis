@@ -14,3 +14,7 @@
 * [Here](https://developer.here.com/pricing) analizado por José Manuel González Domínguez
 * [Pons](http://en.pons.com/assets/docs/api_dict.pdf) analizado por José Manuel González Domínguez
 * [ConstantContact](https://www.constantcontact.com/es/price-plans) analizado por José Manuel González Domínguez
+* [Meaningcloud](https://www.shutterstock.com/es/pricing) analizado por [Juan Ignacio Roldán Torres](https://github.com/juaroltor)
+* [Hubspot](https://www.hubspot.es/pricing/marketing?term=annual&edition=starter) analizado por [Juan Ignacio Roldán Torres](https://github.com/juaroltor)
+* [Shutterstock](https://www.meaningcloud.com/es/productos/precios) analizado por [Juan Ignacio Roldán Torres](https://github.com/juaroltor)
+
