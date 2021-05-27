@@ -11,3 +11,6 @@
 * [Box](https://www.box.com/es-419/pricing/business) analizado por Antonio José Marín Rodríguez
 * [Trustpilot](https://business.trustpilot.com/plans) analizado por Antonio José Marín Rodríguez
 * [Flickr](https://www.flickr.com/account/upgrade/pro) analizado por Antonio José Marín Rodríguez
+* [Here](https://developer.here.com/pricing) analizado por José Manuel González Domínguez
+* [Pons](http://en.pons.com/assets/docs/api_dict.pdf) analizado por José Manuel González Domínguez
+* [ConstantContact](https://www.constantcontact.com/es/price-plans) analizado por José Manuel González Domínguez
