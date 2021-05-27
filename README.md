@@ -30,4 +30,7 @@
 * [Meaningcloud](https://www.meaningcloud.com/) analizado por Paula Garrido Lerma
 * [Doubleclick](https://ads.google.com/home/pricing/) analizado por Paula Garrido Lerma
 * [OxfordDictionaries](https://developer.oxforddictionaries.com/) analizado por Paula Garrido Lerma
+* [Meaningcloud](https://www.meaningcloud.com/es/productos/precios) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
+* [Protexting Sms](https://www.protexting.com/messaging-pricing-spain.html) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
+* [Zamzar](https://developers.zamzar.com/pricing) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
 
