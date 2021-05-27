@@ -23,3 +23,6 @@
 * [Trustpilot](https://business.trustpilot.com) analizado por Víctor Caballero Sánchez
 * [Currencylayer](https://currencylayer.com) analizado por Víctor Caballero Sánchez
 * [Here](https://developer.here.com) analizado por Víctor Caballero Sánchez
+* [Htm2pdf](https://www.htm2pdf.co.uk/plans-and-pricing/) analizado por Francisco José Fernández Blanco
+* [Shutterstock](https://www.shutterstock.com/es/pricing) analizado por Francisco José Fernández Blanco
+* [Bluehost](https://www.bluehost.com/web-hosting/signup) analizado por Francisco José Fernández Blanco
