@@ -51,12 +51,9 @@
 * [Basecamp](https://basecamp.com/) analizado por [Antonio Javier Palma Guerrero](https://github.com/ajpalma28)
 * [Eversign](https://eversign.com) analizado por [Antonio Javier Palma Guerrero](https://github.com/ajpalma28)
 * [Feedly](https://feedly.com/) analizado por [Antonio Javier Palma Guerrero](https://github.com/ajpalma28)
-<<<<<<< HEAD
 * [AccuWeather](https://developer.accuweather.com/packages) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
 * [Checkmarks](https://checkmarks.com/) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
 * [Infusionsoft](https://keap.com/pricing) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
-=======
 * [Twilio](https://sendgrid.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
 * [Autodesk Data Management](https://forge.autodesk.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
 * [Recurly](https://recurly.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
->>>>>>> 6f9e7199a77e5763e9fab1f2e99e0ef6e40d128c
