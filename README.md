@@ -39,3 +39,7 @@
 * [ConvertAPI](https://www.convertapi.com/prices) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
 * [ProductHunt](https://www.producthunt.com/ship) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
 * [AccuWeather](https://developer.accuweather.com/packages) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
+* * [Quickblox](https://quickblox.com/) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
+* [Pcloud](https://www.pcloud.com/es/eu) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
+* [Photobucket](https://app.photobucket.com/explore) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
+
