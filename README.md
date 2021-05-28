@@ -36,4 +36,6 @@
 * [Lob](https://www.lob.com/) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
 * [Besoccer](https://es.besoccer.com/api) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
 * [Okta](https://www.okta.com/pricing/) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
-
+* [ConvertAPI](https://www.convertapi.com/prices) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
+* [ProductHunt](https://www.producthunt.com/ship) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
+* [AccuWeather](https://developer.accuweather.com/packages) analizado por [Miriam Campano Crespo](https://github.com/Mirishya)
