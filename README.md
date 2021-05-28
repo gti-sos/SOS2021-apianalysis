@@ -42,4 +42,6 @@
 * [Quickblox](https://quickblox.com/) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
 * [Pcloud](https://www.pcloud.com/es/eu) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
 * [Photobucket](https://app.photobucket.com/explore) analizado por [Alejandro Pariente Migoya](https://github.com/RoundPegInASquareHole)
-
+* [currencylayer](https://currencylayer.com/) analizado por [Jose Mª Gonzalez Rodriguez](https://github.com/josgonrod7)
+* [Keywordtool](https://keywordtool.io/es) analizado por [Jose Mª Gonzalez Rodriguez](https://github.com/josgonrod7)
+* [Exlibrisgroup](https://exlibrisgroup.com/es/) analizado por [Jose Mª Gonzalez Rodriguez](https://github.com/josgonrod7)
