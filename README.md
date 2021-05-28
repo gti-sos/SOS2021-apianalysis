@@ -48,3 +48,6 @@
 * [Surveymonkey](https://es.surveymonkey.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
 * [Currency Cloud](https://www.currencycloud.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
 * [Producthunt](https://www.producthunt.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
+* [AccuWeather](https://developer.accuweather.com/packages) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
+* [Checkmarks](https://checkmarks.com/) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
+* [Infusionsoft](https://keap.com/pricing) analizado por [Javier Carmona Andrés](https://github.com/JavierCarmona16)
