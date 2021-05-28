@@ -48,3 +48,6 @@
 * [Surveymonkey](https://es.surveymonkey.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
 * [Currency Cloud](https://www.currencycloud.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
 * [Producthunt](https://www.producthunt.com/) analizado por [Manuel Segura Rodriguez](https://github.com/mansegrod)
+* [Twilio](https://sendgrid.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
+* [Autodesk Data Management](https://forge.autodesk.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
+* [Recurly](https://recurly.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
