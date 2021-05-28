@@ -60,4 +60,7 @@
 * [AzureSearch](https://azure.microsoft.com/es-es/pricing/details/search/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
 * [Ecwid](https://www.ecwid.com/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
 * [Scrive](https://www.scrive.com/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
+* [Smugmug](https://www.smugmug.com/) analizado por [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
+* [Bessocer](https://besoccer.com/) analizado por [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
+* [Whoisxmlapi](https://main.whoisxmlapi.com/) analizado por [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
 
