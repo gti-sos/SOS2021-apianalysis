@@ -33,4 +33,7 @@
 * [Meaningcloud](https://www.meaningcloud.com/es/productos/precios) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
 * [Protexting Sms](https://www.protexting.com/messaging-pricing-spain.html) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
 * [Zamzar](https://developers.zamzar.com/pricing) analizado por [Marina Barragán Candel](https://github.com/MarinaBC)
+* [Lob](https://www.lob.com/) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
+* [Besoccer](https://es.besoccer.com/api) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
+* [Okta](https://www.okta.com/pricing/) analizado por [Ana Romero Cáceres](https://github.com/anaromero99)
 
