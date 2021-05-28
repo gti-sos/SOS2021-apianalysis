@@ -57,3 +57,7 @@
 * [Twilio](https://sendgrid.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
 * [Autodesk Data Management](https://forge.autodesk.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
 * [Recurly](https://recurly.com/) analizado por [Antonio Parra Diaz](https://github.com/antonioparra7)
+* [AzureSearch](https://azure.microsoft.com/es-es/pricing/details/search/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
+* [Ecwid](https://www.ecwid.com/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
+* [Scrive](https://www.scrive.com/) analizado por [Daniel Sesé Benjumea](https://github.com/Wocanilo)
+
