@@ -76,6 +76,9 @@
 * [Twilio](https://www.twilio.com/) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
 * [Besoccer](https://company.besoccer.com/api) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
 * [Iconfinder](https://www.iconfinder.com/) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
+* [Smugmug](https://www.smugmug.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
+* [Namecheap](https://www.namecheap.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
+* [Quickblox](https://quickblox.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
 
 * [Smugmug](https://www.smugmug.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
 
