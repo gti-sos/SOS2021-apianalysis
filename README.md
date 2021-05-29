@@ -70,4 +70,7 @@
 * [Debitoor](https://debitoor.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
 * [Mediafire](https://www.mediafire.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
 * [Pricejson](https://www.pricejson.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
+* [lob](https://www.lob.com/) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
+* [getresponse](https://www.getresponse.com/es) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
+* [sendspace](https://www.sendspace.com/) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
 
