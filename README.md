@@ -73,4 +73,8 @@
 * [lob](https://www.lob.com/) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
 * [getresponse](https://www.getresponse.com/es) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
 * [sendspace](https://www.sendspace.com/) analizado por [José Antonio Megías Macías](https://github.com/josanmegias)
+* [Twilio](https://www.twilio.com/) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
+* [Besoccer](https://company.besoccer.com/api) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
+* [Iconfinder](https://www.iconfinder.com/) analizado por [Jorge Marín Cordero](https://github.com/JorgeMarinC)
+
 
