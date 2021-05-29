@@ -69,4 +69,5 @@
 * [Upwork](https://www.upwork.com/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
 * [Debitoor](https://debitoor.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
 * [Mediafire](https://www.mediafire.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
+* [Pricejson](https://www.pricejson.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
 
