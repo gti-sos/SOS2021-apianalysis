@@ -67,4 +67,5 @@
 * [Mailchimp](https://mailchimp.com/es/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
 * [Pushwoosh](https://www.pushwoosh.com/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
 * [Upwork](https://www.upwork.com/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
+* [Debitoor](https://debitoor.com/) analizado por [José Manuel Martín de los Santos](https://github.com/spartano27)
 
