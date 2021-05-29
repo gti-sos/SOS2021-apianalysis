@@ -64,4 +64,7 @@
 * [Bessocer](https://besoccer.com/) analizado por [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
 * [Whoisxmlapi](https://main.whoisxmlapi.com/) analizado por [José Alberto Trancoso Nieto](https://github.com/AlbertoTNJ)
 * [Here](https://developer.here.com/) analizado por [Adrián Román Fernández](https://github.com/Adrirofer)
+* [Mailchimp](https://mailchimp.com/es/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
+* [Pushwoosh](https://www.pushwoosh.com/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
+* [Upwork](https://www.upwork.com/) analizado por [Jesús Ruiz Domínguez](https://github.com/jesruidom)
 
