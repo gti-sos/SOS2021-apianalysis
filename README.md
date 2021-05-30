@@ -105,6 +105,8 @@
 * [DocuSign](https://www.docusign.com/products-and-pricing/api-plans) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
 * [Pricejson](https://www.pricejson.com/) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
 * [Getpocket](https://getpocket.com/premium) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
-
+* [GitHub](https://github.com/) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
+* [Shopify](https://www.shopify.es/) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
+* [Pcloud](https://www.pcloud.com/es/eu) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
 
 
