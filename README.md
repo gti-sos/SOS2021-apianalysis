@@ -79,5 +79,8 @@
 * [Smugmug](https://www.smugmug.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
 * [Namecheap](https://www.namecheap.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
 * [Quickblox](https://quickblox.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
+* [Shodan](https://www.shodan.io/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
+* [Inoreader](https://www.inoreader.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
+* [Pastebin](https://pastebin.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
 
 
