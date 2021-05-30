@@ -82,5 +82,8 @@
 * [Shodan](https://www.shodan.io/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
 * [Inoreader](https://www.inoreader.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
 * [Pastebin](https://pastebin.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
+* [Mailchimp](https://mailchimp.com/es/) analizado por [Manuel Sánchez López](https://github.com/manu261998)
+* [Nutritionix](https://www.nutritionix.com/business/api) analizado por [Manuel Sánchez López](https://github.com/manu261998)
+* [OpenWeatherMap](https://openweathermap.org/price) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 
 
