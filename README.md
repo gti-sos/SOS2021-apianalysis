@@ -91,5 +91,9 @@
 * [Quickblox](https://quickblox.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
 * [DomainTools](https://www.domaintools.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
 * [Gtmetrix](https://gtmetrix.com//) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
+* [Shodan](https://www.shodan.io/) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
+* [Wolframalpha](https://www.wolframalpha.com/) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
+* [IlovePDF](https://www.ilovepdf.com/es) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
+
 
 
