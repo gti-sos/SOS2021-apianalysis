@@ -85,7 +85,9 @@
 * [Mailchimp](https://mailchimp.com/es/) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 * [Nutritionix](https://www.nutritionix.com/business/api) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 * [OpenWeatherMap](https://openweathermap.org/price) analizado por [Manuel Sánchez López](https://github.com/manu261998)
-
+* [Eversign](https://eversign.com/) analizado por [Humberto García Martínez](https://github.com/humgarmar)
+* [Theguardian](https://open-platform.theguardian.com/) analizado por [Humberto García Martínez](https://github.com/humgarmar)
+* [Google Custom Search](https://developers.google.com/custom-search) analizado por [Humberto García Martínez](https://github.com/humgarmar)
 * [Quickblox](https://quickblox.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
 * [DomainTools](https://www.domaintools.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
 * [Gtmetrix](https://gtmetrix.com//) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
