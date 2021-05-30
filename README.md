@@ -96,6 +96,9 @@
 * [Shodan](https://www.shodan.io/) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
 * [Wolframalpha](https://www.wolframalpha.com/) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
 * [IlovePDF](https://www.ilovepdf.com/es) analizado por [Javier García Herrera](https://github.com/Jota0Garcia)
+* [openweathermap](https://openweathermap.org/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
+* [disqus](https://disqus.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
+* [onesignal](https://onesignal.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
 
 
 
