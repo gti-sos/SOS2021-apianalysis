@@ -102,6 +102,9 @@
 * [openweathermap](https://openweathermap.org/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
 * [disqus](https://disqus.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
 * [onesignal](https://onesignal.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
+* [DocuSign](https://www.docusign.com/products-and-pricing/api-plans) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
+* [Pricejson](https://www.pricejson.com/) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
+* [Getpocket](https://getpocket.com/premium) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
 
 
 
