@@ -86,4 +86,8 @@
 * [Nutritionix](https://www.nutritionix.com/business/api) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 * [OpenWeatherMap](https://openweathermap.org/price) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 
+* [Quickblox](https://quickblox.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
+* [DomainTools](https://www.domaintools.com/) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
+* [Gtmetrix](https://gtmetrix.com//) analizado por [Antonio Corpas Espinar](https://github.com/ace58)
+
 
