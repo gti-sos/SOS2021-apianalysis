@@ -121,6 +121,9 @@
 * [Debitoor](https://debitoor.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
 * [Merriam-webster](https://www.dictionaryapi.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
 * [Alibaba](https://eu.alibabacloud.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [sportradar](https://www.sportradar.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [mixcloud](https://www.mixcloud.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [smugmug](https://www.smugmug.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
 
 
 
