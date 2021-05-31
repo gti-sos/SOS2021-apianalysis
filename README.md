@@ -124,6 +124,9 @@
 * [Ilovepdf](https://www.ilovepdf.com/) analizado por Manuel González Regadera.
 * [Dropbox](https://www.dropbox.com/) analizado por Manuel González Regadera.
 * [Cloudflare](https://www.cloudflare.com/es-es/) analizado por Manuel González Regadera.
+* [AccuWeather](https://www.accuweatherglobal.com/) analizado por Almudena González López de Letona.
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por Almudena González López de Letona.
+* [Pushwoosh](https://www.pushwoosh.com/) analizado por Almudena González López de Letona.
 
 
 
