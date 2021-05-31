@@ -124,6 +124,9 @@
 * [sportradar](https://www.sportradar.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
 * [mixcloud](https://www.mixcloud.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
 * [smugmug](https://www.smugmug.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [Ilovepdf](https://www.ilovepdf.com/) analizado por Manuel González Regadera.
+* [Dropbox](https://www.dropbox.com/) analizado por Manuel González Regadera.
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por Manuel González Regadera.
 
 
 
