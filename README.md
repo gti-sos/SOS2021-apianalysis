@@ -130,6 +130,8 @@
 * [AccuWeather](https://www.accuweatherglobal.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
 * [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
 * [Pushwoosh](https://www.pushwoosh.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
-
+* [Moz](https://moz.com/products/api) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
+* [Theguardian](https://open-platform.theguardian.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
+* [Mapquest](https://developer.mapquest.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
 
 
