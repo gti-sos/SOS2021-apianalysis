@@ -86,7 +86,7 @@
 * [Quickblox](https://quickblox.com/) analizado por [Francisco Miguel Tristán Clavijo](https://github.com/frankys99)
 * [Shodan](https://www.shodan.io/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
 * [Inoreader](https://www.inoreader.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
-* [Pastebin](https://pastebin.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada)
+* [Pastebin](https://pastebin.com/) analizado por [Jesús Guerra Adame](https://github.com/jesgueada), [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
 * [Mailchimp](https://mailchimp.com/es/) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 * [Nutritionix](https://www.nutritionix.com/business/api) analizado por [Manuel Sánchez López](https://github.com/manu261998)
 * [OpenWeatherMap](https://openweathermap.org/price) analizado por [Manuel Sánchez López](https://github.com/manu261998)
@@ -130,8 +130,8 @@
 * [AccuWeather](https://www.accuweatherglobal.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
 * [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
 * [Pushwoosh](https://www.pushwoosh.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
-* [Moz](https://moz.com/products/api) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
+* [Moz](https://moz.com/products/api) analizado por [Mateo Serna Giraldo](https://github.com/keffren), [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
 * [Theguardian](https://open-platform.theguardian.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
 * [Mapquest](https://developer.mapquest.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
-
+* [Zoom](https://zoom.us/) analizado por [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
 
