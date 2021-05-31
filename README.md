@@ -112,5 +112,7 @@
 * [Slack](https://app.slack.com/plans/T98L0R2T1?geocode=es-es) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
 * [Okta](https://www.okta.com/pricing/) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
 * [DocuSign](https://docusign.com) analizado por [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
-
+* [Mailchimp](https://mailchimp.com/es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [OneSignal](https://onesignal.com/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [Zendesk](https://www.zendesk.es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
 
