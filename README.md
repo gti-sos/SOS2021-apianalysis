@@ -121,6 +121,9 @@
 * [Debitoor](https://debitoor.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
 * [Merriam-webster](https://www.dictionaryapi.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
 * [Alibaba](https://eu.alibabacloud.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [Ilovepdf](https://www.ilovepdf.com/) analizado por Manuel González Regadera.
+* [Dropbox](https://www.dropbox.com/) analizado por Manuel González Regadera.
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por Manuel González Regadera.
 
 
 
