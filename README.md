@@ -143,3 +143,6 @@
 * [OpenWeatherMap](https://openweathermap.org/) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
 * [Feedly](https://feedly.com/i/welcome) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
 * [Onesignal](https://onesignal.com/) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
+* [Mailchimp](https://mailchimp.com/es/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
+* [Mediafire](https://www.mediafire.com/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
