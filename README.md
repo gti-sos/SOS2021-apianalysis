@@ -115,4 +115,7 @@
 * [Mailchimp](https://mailchimp.com/es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
 * [OneSignal](https://onesignal.com/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
 * [Zendesk](https://www.zendesk.es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [Nutritionix](https://www.nutritionix.com/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Salesforce](https://www.salesforce.com/es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
 
