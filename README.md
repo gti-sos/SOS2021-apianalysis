@@ -146,3 +146,6 @@
 * [Mailchimp](https://mailchimp.com/es/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
 * [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
 * [Mediafire](https://www.mediafire.com/) analizado por [Francisco Javier Macero Vázquez](https://github.com/framacvaz)
+* [Currencylayer](https://currencylayer.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
+* [Smugmug](https://www.smugmug.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
+* [Mediafire](https://onesignal.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
