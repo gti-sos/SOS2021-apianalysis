@@ -111,5 +111,6 @@
 * [Mailchimp](https://mailchimp.com/es/pricing/marketing/compare-plans/) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
 * [Slack](https://app.slack.com/plans/T98L0R2T1?geocode=es-es) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
 * [Okta](https://www.okta.com/pricing/) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
+* [DocuSign](https://docusign.com) analizado por [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
 
 
