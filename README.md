@@ -102,6 +102,34 @@
 * [openweathermap](https://openweathermap.org/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
 * [disqus](https://disqus.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
 * [onesignal](https://onesignal.com/) analizado por [Juan Díez Blanco](https://github.com/jdblanco)
+* [DocuSign](https://www.docusign.com/products-and-pricing/api-plans) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
+* [Pricejson](https://www.pricejson.com/) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
+* [Getpocket](https://getpocket.com/premium) analizado por [Nuria Escamilla Torres](https://github.com/nuresctor)
+* [GitHub](https://github.com/) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
+* [Shopify](https://www.shopify.es/) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
+* [Pcloud](https://www.pcloud.com/es/eu) analizado por [Alejandro Fernandez Baena](https://github.com/alefdz98)
+* [Mailchimp](https://mailchimp.com/es/pricing/marketing/compare-plans/) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
+* [Slack](https://app.slack.com/plans/T98L0R2T1?geocode=es-es) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
+* [Okta](https://www.okta.com/pricing/) analizado por [Juan Vega Seco](https://github.com/jhonvi2)
+* [DocuSign](https://docusign.com) analizado por [Alvaro Caro Jimenez](https://github.com/alvcarjim1)
+* [Mailchimp](https://mailchimp.com/es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [OneSignal](https://onesignal.com/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [Zendesk](https://www.zendesk.es/) analizado por [Jose Pablo Carrasco Cobos](https://github.com/joscarcob1)
+* [Nutritionix](https://www.nutritionix.com/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Salesforce](https://www.salesforce.com/es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Debitoor](https://debitoor.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [Merriam-webster](https://www.dictionaryapi.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [Alibaba](https://eu.alibabacloud.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [sportradar](https://www.sportradar.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [mixcloud](https://www.mixcloud.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [smugmug](https://www.smugmug.com/) analizado por [Joan Villalonga Álvaro](https://github.com/joavilalv)
+* [Ilovepdf](https://www.ilovepdf.com/) analizado por Manuel González Regadera.
+* [Dropbox](https://www.dropbox.com/) analizado por Manuel González Regadera.
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por Manuel González Regadera.
+* [AccuWeather](https://www.accuweatherglobal.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
+* [Pushwoosh](https://www.pushwoosh.com/) analizado por [Almudena González López de Letona](https://github.com/almgonlop)
 
 
 
