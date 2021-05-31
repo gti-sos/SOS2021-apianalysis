@@ -137,3 +137,9 @@
 * [Here](https://www.here.com/) analizado por Salvador Romero Merino
 * [Trello](https://trello.com/es) analizado por Salvador Romero Merino
 * [Protexting Sms](https://www.protexting.com/) analizado por Salvador Romero Merino
+* [Zoom](https://zoom.us/) analizado por [Antonio Carranza Barroso](https://github.com/carran97)
+* [Eversign](https://eversign.com/) analizado por [Antonio Carranza Barroso](https://github.com/carran97)
+* [Similarweb](https://www.similarweb.com/) analizado por [Antonio Carranza Barroso](https://github.com/carran97)
+* [OpenWeatherMap](https://openweathermap.org/) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
+* [Feedly](https://feedly.com/i/welcome) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
+* [Onesignal](https://onesignal.com/) analizado por [Daniel Gallardo Carrion](https://github.com/dangalcar)
