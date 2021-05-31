@@ -118,4 +118,9 @@
 * [Nutritionix](https://www.nutritionix.com/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
 * [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
 * [Salesforce](https://www.salesforce.com/es/) analizado por [Alicia Pérez Bolaños](https://github.com/aliperbol)
+* [Debitoor](https://debitoor.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [Merriam-webster](https://www.dictionaryapi.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+* [Alibaba](https://eu.alibabacloud.com/) analizado por [Antonio Silva Gordillo](https://github.com/antoniosilva096)
+
+
 
