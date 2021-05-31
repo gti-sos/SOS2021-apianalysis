@@ -134,4 +134,6 @@
 * [Theguardian](https://open-platform.theguardian.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
 * [Mapquest](https://developer.mapquest.com/) analizado por [Mateo Serna Giraldo](https://github.com/keffren)
 * [Zoom](https://zoom.us/) analizado por [Fernando Nuevo Jiménez](https://github.com/FerNueJim)
-
+* [Here](https://www.here.com/) analizado por Salvador Romero Merino
+* [Trello](https://trello.com/es) analizado por Salvador Romero Merino
+* [Protexting Sms](https://www.protexting.com/) analizado por Salvador Romero Merino
