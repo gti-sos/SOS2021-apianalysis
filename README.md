@@ -149,3 +149,6 @@
 * [Currencylayer](https://currencylayer.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
 * [Smugmug](https://www.smugmug.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
 * [Mediafire](https://onesignal.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
+* [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
+* [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
+* [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
