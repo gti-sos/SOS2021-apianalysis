@@ -150,5 +150,5 @@
 * [Smugmug](https://www.smugmug.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
 * [Mediafire](https://onesignal.com/) analizado por [Gonzalo Camacho Pérez de Sevilla](https://github.com/goncamper)
 * [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
-* [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
-* [Debitoor](https://debitoor.es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
+* [Photobucket](https://app.photobucket.com/explore) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
+* [Cloudflare](https://www.cloudflare.com/es-es/) analizado por [José María de Soto Oncíns de Sevilla](https://github.com/PepeDeSoto)
